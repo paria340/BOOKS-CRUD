@@ -8,7 +8,8 @@ Here is a full-stack web application which implements React, Redux, Node.js, Exp
 
 This app is called bookshelf; where you can add a new book to your book collection, edit an existing one or delete a book you no longer desire to keep. 
 
-Here is a live link to the BookShelf app if you want to try it out: 
+
+The back-end is hosted on Heroku and the front-end on Netlify. Here is a live link to the BookShelf app if you want to try it out: 
 
 https://bookshelf2022.netlify.app/
 
