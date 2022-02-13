@@ -1,0 +1,21 @@
+.bookContainer{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    background-color: darkcyan;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    img{
+        align-self: center;
+        width: 30%;
+        margin-top: 30px; 
+    }
+    button{
+        align-self: center;
+        width: 30%;
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+}
